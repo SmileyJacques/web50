@@ -1,2 +1,4 @@
 # web50
-Harvard CS50 Web Programing with Python and Javascript
+Harvard Course CS50 Web Programing with Python and Javascript
+
+Project 0 - HTML and CSS build a a basic copy of Google Search web pages
